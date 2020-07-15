@@ -29,3 +29,18 @@ video
   /* top: 10%; */
   /* align-self: flex-start; */
 }
+.video-source
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.video-source>label
+{
+  /* color: lightgoldenrodyellow; */
+}
+#videoSelectBtn
+{
+  /* border: 1px solid black; */
+  /* border-radius: 1rem; */
+}

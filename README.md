@@ -9,10 +9,11 @@
 - Start button will start the recording and stop will stop it.
 - Save the video at the desired path through the dialog box. 
 
-### Screenshots
+## Screenshots
  
 ![Start Screen](https://samarpan1738.github.io/OBS-killer/assets/main-app.png)
 
-**Video sample recorded from this app** [Sample Video](https://samarpan1738.github.io/OBS-killer/assets/promo.webm)
+## Video sample recorded from this app
+[Sample Video](https://samarpan1738.github.io/OBS-killer/assets/promo.webm)
 
 
